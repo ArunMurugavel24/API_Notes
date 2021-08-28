@@ -50,7 +50,7 @@ The stuffs after the question mark(?) in the URL is one way to pass the informat
 
 Another common way to pass the information about the request is using the key and value pairs called 'Headers'. Both requests and responses have headers and is used to communicate what is further wanted by the client. Using headers, we can add each and every info that we need (content Lang, content type,...)
 
-# The Response also has headers. These headers have status codes that convey informations about what happended in the server.
+The Response also has headers. These headers have status codes that convey informations about what happended in the server.
 
 # REST:
 
