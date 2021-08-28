@@ -29,8 +29,6 @@ APIs - 1. Local APIs, 2. Remote APIs
 
 REST sits on top of web technology.
 
-===========================================
-
 ## How web works and web terminologies (HTTP):
 
 - Browser -> Web Client (we use browser to connect to a server). We connect to the server by putting an address in the search bar. This address is called "Universal Resource Locator(URL) / Universal Resource Identifier(URI)'
