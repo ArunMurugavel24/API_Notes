@@ -65,7 +65,7 @@ Here are the guiding architectural constraints required for an API to be conside
 5. Uniform desing
 6. Code on Demand
 
-# How the REST API sits on top of the web?
+## How the REST API sits on top of the web?
 
 The client makes a request to the server. The client in this case is going to be your program running in your browser and will probably using some frameworks or libraries to create the request. The protocol used is "HTTP" and is stateless: which means the server wont remember anything about the particular client. So, if we want to the server to remember some details like login info etc, then we have to send those appropriate keys in the header of each and every HTTP request.
 
