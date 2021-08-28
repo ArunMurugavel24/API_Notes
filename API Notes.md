@@ -1,4 +1,4 @@
-API - Application Program Interface
+## API - Application Program Interface
 
 Interface is all around us. Everything that we see around is made up of so many interfaces that makes our job easy. For example, a simple radio has so many buttons (interface) that allows us to change the volumes, tune into different channel and much more. A mobile phone, computers have GUI (Graphical User Interface). A programming framework/libraries have interface that allows us to set various properties/ custom desing a specific task as we desire.
 
@@ -20,7 +20,7 @@ Broweser implements so many web APIs so that when we host a site, it is able to 
 
 APIs - 1. Local APIs, 2. Remote APIs
 
-Remote API:
+## Remote API:
 
 - A TV remote is an example of a remote API. We can access the TV's various interfaces or Settings using the TV Remote's various Interfaces(Buttons). Basically we can control an application using remote API (TV Remotes, Drone Remotes, Changing Traffic Board Messages from a computer, controlling a robot(wireless), etc,...). Google Drives, Google Clouds, etc,... are also an example of Remote APIs.
 - Since Remote APIs remove the limitations of the local machine, we can have enormous computaional capabilities (fast responses). These are the reasons that allows us to access various and specific information from in the web (web APIs are remote as well)
@@ -31,7 +31,7 @@ REST sits on top of web technology.
 
 ===========================================
 
-How web works and web terminologies (HTTP):
+## How web works and web terminologies (HTTP):
 
 - Browser -> Web Client (we use browser to connect to a server). We connect to the server by putting an address in the search bar. This address is called "Universal Resource Locator(URL) / Universal Resource Identifier(URI)'
 - http - Hyper Text Transfer protocol
@@ -52,7 +52,7 @@ Another common way to pass the information about the request is using the key an
 
 # The Response also has headers. These headers have status codes that convey informations about what happended in the server.
 
-REST:
+# REST:
 
 REST sits top of all the web technologies. Hence it will leverage the use of all of these to benefit us.
 
@@ -87,7 +87,7 @@ If JSON is not our priority, then we can specify the type of Data format in the 
 
 The HTTP Verbs - GET, POST, PUT, PATCH, DELETE - are used by the REST API to state the intention of the request.
 
-<!-- The HTTP Verb Usage and the equivalent CRUD Abbreviation -->
+(The HTTP Verb Usage and the equivalent CRUD Abbreviation)
 
 - GET - Retrieves the Data - Read
 - POST - puts the data - Create
